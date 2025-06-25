@@ -193,7 +193,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - 🐍 [Python subprocess Documentation](https://docs.python.org/3/library/subprocess.html)
 
 ---
-
-**Made with ❤️ for daily motivation!**
-
-*Start every day with inspiration! 🌟*
